@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Anupam Sahoo		anupam@anupam.com		@anupamsahoo
 
 # THANKS
 
