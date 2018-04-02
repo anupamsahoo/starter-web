@@ -16,3 +16,7 @@ This is example is to show different parts of the Git repository and verias comm
 ## How To Contribute
 
 This is example is to show different parts of the Git repository and verias commands using a web project. test
+
+## Copyright
+
+2018 &copy; Anupam
